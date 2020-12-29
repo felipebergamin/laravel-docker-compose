@@ -14,3 +14,5 @@ Item 2: imagem Go
 
 - [Repositório com Dockerfile](https://github.com/felipebergamin/docker-image-hello-go)
 - Teste com `docker run felipebergamin/codeeducation`
+
+Testing CI
